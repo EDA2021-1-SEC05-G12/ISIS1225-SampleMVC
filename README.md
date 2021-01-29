@@ -1,3 +1,10 @@
+# Integrantes
+* Juan Sebastian Pinzon Sampedro
+* Nicolas Cano Cifuentes
+
+
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
@@ -26,5 +33,8 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |--Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
+# Integrantes
+* Jose M.
+* Juan J.
 
 
