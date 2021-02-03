@@ -1,6 +1,6 @@
 # Integrantes
-* Juan Sebastian Pinzon Sampedro
-* Nicolas Cano Cifuentes
+* Juan Sebastian Pinzon Sampedro-j.pinzons-202013144
+* Nicolas Cano Cifuentes-n.cano-201731916
 
 
 
